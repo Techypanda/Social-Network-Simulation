@@ -1,0 +1,26 @@
+1 ) Added Edges To Graph.
+2 ) Added 3 Way Quick Sort To Graph DisplayList() as it is fastest with random data of a small
+amount (100 Units Of Data) (from my testing in SortsTestHarness), and a sorted list is nicer to look at
+for the general user
+3 ) Added Remove Node to DSAGraph.
+4 ) In Turn had to add remove to LinkedList.
+5 ) Also had to add a removeReference method to vertexs.
+6 ) Had to modify my linkedList as it didnt work with removing every node.
+7 ) clickbait chance is a integer, basically if it fails to be liked first time, roll again x times.
+9 ) Added size method to linkedlist.
+10 ) Added contains method to linkedList.
+11 ) 3 Way quick sort is used to order the likes as it is fastest with a random data of a small amount.
+12 ) Added Like Responses Array and Dislike Responses (Randomized)
+
+
+
+HASH TABLE OF USERS.
+USERS HAVE A UNIQUE ID.
+USE UNIQUE ID TO FIND THEIR MESSAGES IN A HASHTABLE OF VALUES.
+
+Kira -> Landstrider, Nebrie, Fizzgig
+Landstrider -> Kira
+Nebrie -> Kira
+Fizzgig -> Kira
+
+like = 3
